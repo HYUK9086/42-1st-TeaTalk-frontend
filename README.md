@@ -20,6 +20,8 @@
 	
 	- [백엔드 github 링크](https://github.com/wecode-bootcamp-korea/42-1st-TeaTalk-backend.git)
 	
+	- [개인 블로그 링크](https://velog.io/@as13ljh/1%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0)
+	
 3. 적용기술
 	- React.js, sass, figma, HTML, JavaScript
 	- 협업 및 일정관리 : Git, GitHub, Slack, Trello, Notion
